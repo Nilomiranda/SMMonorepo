@@ -1,0 +1,31 @@
+Arguments: 
+  /Users/danilomiranda/.nvm/versions/node/v12.8.1/bin/node /usr/local/Cellar/yarn/1.15.2/libexec/bin/yarn.js init -y
+
+PATH: 
+  /Users/danilomiranda/.nvm/versions/node/v12.8.1/bin:/Users/danilomiranda/Downloads/google-cloud-sdk/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:/opt/X11/bin:~/.dotnet/tools:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/danilomiranda/.nvm/versions/node/v12.8.1/bin:/Users/danilomiranda/Downloads/google-cloud-sdk/bin
+
+Yarn version: 
+  1.15.2
+
+Node version: 
+  12.8.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  SyntaxError: /Users/danilomiranda/Desktop/MENTORSHIPS/G-JABUR/monorepo/package.json: Unexpected token } in JSON at position 304
+      at JSON.parse (<anonymous>)
+      at /usr/local/Cellar/yarn/1.15.2/libexec/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/usr/local/Cellar/yarn/1.15.2/libexec/lib/cli.js:304:30)
+      at /usr/local/Cellar/yarn/1.15.2/libexec/lib/cli.js:315:13
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
